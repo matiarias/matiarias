@@ -8,8 +8,7 @@ I want to create websites that make an impact on people.💜
 - ⚡ I'm looking for my first experience as a Frontend Developer.
 - 🔭 I’m currently working on a Wheather app with React and my Portfolio.
 - 🌱 I’m currently learning and studying: **React**
-- 🌱 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages.
-  I speak native Spanish, English (B2)
+- 🌱 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages. I speak native Spanish, English (B2).
 
 <br />
 

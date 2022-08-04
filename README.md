@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Hi Everyone 👋 I'm Matias Arias
 
 I'm a Frontend Developer from Argentina who loves **JavaScript** and **React**.
@@ -65,21 +66,4 @@ I want to create websites that make an impact on people.💜
 
 <!--
 <img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-=======
-### Hi there 👋
-
-<!--
-**matiarias/matiarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
->>>>>>> ab284b9b2dac8597f2ce06f7f0afd44a90e4455d
 -->

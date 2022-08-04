@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-
 # Hi Everyone 👋 I'm Matias Arias
 
-I'm a Frontend Developer from Argentina who loves **JavaScript** and **React**.
-I want to create websites that make an impact on people.💜
+I'm a Frontend Developer from Argentina who loves **JavaScript** and **React**. I want to create websites that make an impact on people.💜
 
 ![profile image](https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg "beach")
 
@@ -15,8 +12,6 @@ I want to create websites that make an impact on people.💜
 <br />
 
 ## ❤️ Languages and Tools
-
----
 
 <br />
 
@@ -47,8 +42,6 @@ I want to create websites that make an impact on people.💜
 <br />
 
 ## 🌌 Where to find me
-
----
 
 <br />
 

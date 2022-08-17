@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **React**. I want to create websites that make an impact on people.💜
 
-![profile image](https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg "beach")
+![readme profile img](https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg "beach")
 
 - ⚡ I'm looking for my first experience as a Frontend Developer.
 - 🔭 I’m currently working on a Wheather app with React and my Portfolio.
@@ -16,6 +16,7 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br />
@@ -44,7 +45,3 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **
 <br />
 
 [![Matias github stats](https://github-readme-stats.vercel.app/api?username=matiarias&show_icons=true&bg_color=f3eaea&title_color=49af40&icon_color=49af40)](https://github.com/matiarias)
-
-<!--
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
--->

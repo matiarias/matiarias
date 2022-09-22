@@ -5,7 +5,7 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **
 ![readme profile img](https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg "beach")
 
 - ⚡ I'm looking for my first experience as a Frontend Developer.
-- 🔭 I’m currently working on a Wheather app with React and my Portfolio.
+- 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning and studying: **React**
 - 💛 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages. I speak native Spanish, English (B2).
 

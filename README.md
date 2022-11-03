@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **React**. I want to create websites that make an impact on people.💜
 
-![readme profile img](https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg "beach")
+![readme profile img](./assets/beach-image-profile.jpg)
 
 - ⚡ I'm looking for my first experience as a Frontend Developer.
 - 🔭 I’m currently working on my Portfolio.

@@ -6,7 +6,7 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **
 
 - ⚡ I'm looking for my first experience as a Frontend Developer.
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning and studying: **React**
+- 🌱 I’m currently learning and studying: **React.js**, **Next.js** and **Firebase**
 - 💛 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages. I speak native Spanish, English (B2).
 
 ## ❤️ Languages and Tools
@@ -17,8 +17,10 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript** and **
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <br />
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)

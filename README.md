@@ -4,8 +4,7 @@ I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript**, **Rea
 
 ![readme profile img](./assets/beach-image-profile.jpg)
 
-- ⚡ I'm looking for my first experience as a Frontend Developer.
-- 🔭 I’m currently working on my Portfolio.
+- ⚡ I'm currently working as a Software Enginner at Santander Tecnología Argentina.
 - 🌱 I’m currently learning and studying: **React.js**, **Next.js** and **Firebase**
 - 💛 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages. I speak native Spanish, English (B2).
 

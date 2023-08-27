@@ -18,24 +18,27 @@ Deploy: [https://matiasarias.vercel.app/](https://matiasarias.vercel.app/)
 
 <br />
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![html](./assets/skills/HTML5.jpg)
+![css](./assets/skills/CSS3.jpg)
+![bootstrap](./assets/skills/Bootstrap.jpg)
+![tailwind](./assets/skills/Tailwind-CSS.jpg)
+![material ui](./assets/skills/material-ui.jpg)
+![styled components](./assets/skills/styled-components.jpg)
+![javascript](./assets/skills/JavaScript.jpg)
+![typescript](./assets/skills/typescript.jpg)
+![react](./assets/skills/React.jpg)
+![redux toolkit](./assets/skills/Redux.jpg)
+![next.js](./assets/skills/next.jpg)
 <br />
 
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![nodejs](./assets/skills/Node.jpg)
+![express](./assets/skills/Express.jpg)
+![mongodb](./assets/skills/MongoDB.jpg)
+![Firebase](./assets/skills/firebase.jpg)
 <br />
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)
+![git](./assets/skills/GIT.jpg)
+![github](./assets/skills/GitHub.jpg)
 <br />
 
 ## 🌌 Where to find me

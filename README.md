@@ -1,58 +1,26 @@
-# Hi Everyone 👋 I'm Matias Arias
+# Hi there, I'm Matias Arias 👋 
+### Frontend Engineer | React & TypeScript
 
-I'm a Frontend Developer from Argentina who loves **CSS**, **JavaScript**, **React** and **Next.js** I want to create websites that make an impact on people.💜
+I am a Frontend Engineer with over 3 years of experience at **Santander Tecnología Argentina**, building high-volume banking and investment features for production using **React, Next.js, and TypeScript**. 
 
-![readme profile img](./assets/beach-image-profile.jpg)
+I focus on scalable frontend architectures, transactional systems, BFF development with Node.js, and implementing workflows assisted by AI.
 
-- ⚡ I'm currently working as a Software Enginner at Santander Tecnología Argentina.
-- 🌱 I’m currently learning and studying: **React.js**, **Next.js** and **Firebase**
-- 💛 I consider myself a very calm and kind person, I love everything about traveling the world and learning different languages. I speak native Spanish, English (B2).
-
-## 👽 My Portfolio
-
-**Hey, Don´t miss my Portfolio with a lot of cool projects. I had put all my effort and imagination trying to create an amazing portfolio. Hope you like it.**
-
-Deploy: [https://matiasarias.vercel.app/](https://matiasarias.vercel.app/)
-
-## ❤️ Languages and Tools
-
-<br />
-
-![html](./assets/skills/HTML5.jpg)
-![css](./assets/skills/CSS3.jpg)
-![bootstrap](./assets/skills/Bootstrap.jpg)
-![tailwind](./assets/skills/Tailwind-CSS.jpg)
-![material ui](./assets/skills/material-ui.jpg)
-![styled components](./assets/skills/styled-components.jpg)
-![javascript](./assets/skills/JavaScript.jpg)
-![typescript](./assets/skills/typescript.jpg)
-![react](./assets/skills/React.jpg)
-![redux toolkit](./assets/skills/Redux.jpg)
-![next.js](./assets/skills/next.jpg)
-<br />
-
-![nodejs](./assets/skills/Node.jpg)
-![express](./assets/skills/Express.jpg)
-![mongodb](./assets/skills/MongoDB.jpg)
-![Firebase](./assets/skills/firebase.jpg)
-<br />
-
-![git](./assets/skills/GIT.jpg)
-![github](./assets/skills/GitHub.jpg)
-<br />
-
-## 🌌 Where to find me
-
-<br />
-
-[![Gmail Badge](https://img.shields.io/badge/-matt.arias182@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.arias182@gmail.com)](mailto:matt.arias182@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-matiasarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasariasa27/)](https://www.linkedin.com/in/matiasarias27/)
-
-[![Instagram Badge](https://img.shields.io/badge/-matiarias-green?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_matiarias/)](https://instagram.com/_matiarias)
+🌐 **Based in:** San Juan, Argentina *(Open to Relocation to EU & Remote Work)*
 
 ---
 
-<br />
+### 🛠️ Tech Stack
 
-[![Matias github stats](https://github-readme-stats.vercel.app/api?username=matiarias&show_icons=true&bg_color=f3eaea&title_color=49af40&icon_color=49af40)](https://github.com/matiarias)
+* **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Zustand, Redux Toolkit, TanStack Query, TanStack Table
+* **Styling & UI:** Tailwind CSS, Material UI (MUI), Styled Components, CSS Modules, Design Systems
+* **Backend / BFF:** Node.js, NestJS, Express.js, REST APIs, MongoDB
+* **Testing & Ops:** Playwright (E2E), Jest, React Testing Library, Vitest, Kibana, Grafana, OpenShift
+* **AI & Workflows:** Windsurf, Devin, GitHub Copilot
+
+---
+
+### 📫 Connect with Me
+
+* 🌐 **Portfolio:** [matiasarias.vercel.app](https://matiasarias.vercel.app/)
+* 💼 **LinkedIn:** [linkedin.com/in/matiasarias27](https://www.linkedin.com/in/matiasarias27/)
+* 📧 **Email:** [maticarlosarias@gmail.com](mailto:maticarlosarias@gmail.com)
